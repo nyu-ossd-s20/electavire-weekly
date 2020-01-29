@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Noah Brumfield
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -25,7 +25,7 @@ avatar_alt_text: Avatar
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: njb369@nyu.edu
   facebook:
   flickr:
   github: nyu-ossd-s20
@@ -43,14 +43,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s20.github.io/weekly"
+url: "https://nyu-ossd-s20.github.io/electavire-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/electavire-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
