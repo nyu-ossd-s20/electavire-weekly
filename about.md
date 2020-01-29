@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Im Noah Brumfield.  Im in my last semester for Computer Science (Woo!)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Im kind of a homebody.  Talk to me about video games and I won't shut up until the heat-death of the universe demands it!
 
