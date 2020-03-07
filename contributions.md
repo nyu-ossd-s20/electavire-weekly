@@ -1,25 +1,9 @@
----
-layout: page
-title: My Open Source Contributions
-permalink: /contributions/
----
-
-<!--
-Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "Documentation", "Course website", "Blog",
-"Browse Add-on", etc.
-
-The description should include a brief summary of what you did.
-
-Replace the first row with your own contribution. 
-
--->
+# Open Source Contributions
 
 
 
 
-
-| Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+### March 6
+Created several issues in different people's repositories about the date for their weekly posts
+being off.  (2019 instead of 2020)  These include nedjulius-weekly, 
+Charleshthomasiii-weekly, KBB99-weekly, and several more. 
