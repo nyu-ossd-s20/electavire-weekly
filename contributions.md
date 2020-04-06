@@ -1,9 +1,25 @@
-# Open Source Contributions
+---
+layout: page
+title: My Open Source Contributions
+permalink: /contributions/
+---
+
+<!--
+Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "Documentation", "Course website", "Blog",
+"Browse Add-on", etc.
+
+The description should include a brief summary of what you did.
+
+Replace the first row with your own contribution. 
+
+-->
 
 
 
 
-### March 6
-Created several issues in different people's repositories about the date for their weekly posts
-being off.  (2019 instead of 2020)  These include nedjulius-weekly, 
-Charleshthomasiii-weekly, KBB99-weekly, and several more. 
+
+| Date #       | Contribution (Link)  | Type  | Description |
+|---|:---|:---|:---|
+| Feb 29   | https://www.openstreetmap.org/changeset/81633129#map=19/40.74574/-73.94535&layers=N    | OpenStreet Map feature    |   I added a location    |
+|  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Hideki_Kamiya&oldid=949494230 |  Wikipedia Edit  |  Added a bit to the personal life section   |
+|     |      |     |      |
