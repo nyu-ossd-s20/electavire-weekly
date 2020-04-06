@@ -22,4 +22,5 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Hideki_Kamiya&oldid=949494230 |  Wikipedia Edit  |  Added a bit to the personal life section   |
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Hideki_Kamiya&oldid=949494230 |  Wikipedia Edit  | Added a bit to the current events of the Newgrounds page |
+|  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Game_Grumps&oldid=949501501 |  Wikipedia Edit  | Added a section about non-gaming content to the Game Grumps wiki |
 |     |      |     |      |
