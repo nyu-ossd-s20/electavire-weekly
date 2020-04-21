@@ -25,10 +25,10 @@ Replace the first row with your own contribution.
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Game_Grumps&oldid=949501501 |  Wikipedia Edit  | Added a section about non-gaming content to the Game Grumps wiki |
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Game_Grumps&oldid=949502180 |  Wikipedia Edit  | fixed several mistakes I amde in that last one OOPS |
 |  April 21   | https://github.com/nyu-ossd-s20/anastasiasoenjoto-weekly/issues/1 |  OSSD Issue | Created issue on missed date |
-mistakes I amde in that last one OOPS |
 |  April 21   | https://github.com/nyu-ossd-s20/pmets-weekly/issues/2             |  OSSD Issue | Created issue on missed date |
+|  April 21   | https://github.com/nyu-ossd-s20/nedjulius-weekly/issues/1         |  OSSD Issue | Created issue on missed date |
 |     |      |     |      |
 
 
 
-https://github.com/nyu-ossd-s20/pmets-weekly/issues/2
+https://github.com/nyu-ossd-s20/nedjulius-weekly/issues/1
