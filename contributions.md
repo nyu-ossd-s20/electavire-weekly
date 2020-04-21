@@ -31,4 +31,3 @@ Replace the first row with your own contribution.
 
 
 
-https://github.com/nyu-ossd-s20/nedjulius-weekly/issues/1
