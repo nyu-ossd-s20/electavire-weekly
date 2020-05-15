@@ -20,10 +20,20 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+|  Mar 6  | https://github.com/nyu-ossd-s20/PrinceCarter-weekly/issues/1 |  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/benrkaplan-weekly/issues/1 |  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/Charleshthomasiii-weekly/issues/1 |  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/hkajs-weekly/issues/1 | OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/Pallof-weekly/issues/1|  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/Wu-Bowen-weekly/issues/1|  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/ryanhanli-weekly/issues/1|  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/carsendecker-weekly/issues/2|  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/carsendecker-weekly/issues/2|  OSSD Issue | Created issue on missed date |
+|  Mar 6  | https://github.com/nyu-ossd-s20/KBB99-weekly/issues/1|  OSSD Issue | Created issue on missed date |
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Hideki_Kamiya&oldid=949494230 |  Wikipedia Edit  |  Added a bit to the personal life section   |
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Hideki_Kamiya&oldid=949494230 |  Wikipedia Edit  | Added a bit to the current events of the Newgrounds page |
 |  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Game_Grumps&oldid=949501501 |  Wikipedia Edit  | Added a section about non-gaming content to the Game Grumps wiki |
-|  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Game_Grumps&oldid=949502180 |  Wikipedia Edit  | fixed several mistakes I amde in that last one OOPS |
+|  Mar 22   |   https://en.wikipedia.org/w/index.php?title=Game_Grumps&oldid=949502180 |  Wikipedia Edit  | fixed several mistakes I made in that last one OOPS |
 |  April 21   | https://github.com/nyu-ossd-s20/anastasiasoenjoto-weekly/issues/1 |  OSSD Issue | Created issue on missed date |
 |  April 21   | https://github.com/nyu-ossd-s20/pmets-weekly/issues/2             |  OSSD Issue | Created issue on missed date |
 |  April 21   | https://github.com/nyu-ossd-s20/nedjulius-weekly/issues/1         |  OSSD Issue | Created issue on missed date |
