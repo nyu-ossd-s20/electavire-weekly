@@ -39,7 +39,7 @@ Replace the first row with your own contribution.
 |  May 14  | https://www.openstreetmap.org/changeset/85233480  |  Open Street Maps | Added Mountain Mike's Pizza|
 |  May 14  | https://www.openstreetmap.org/changeset/85233518 |  Open Street Maps | Added Daphne's restaurant Tag|
 |  May 14  | https://www.openstreetmap.org/changeset/85233547 |  Open Street Maps | Added Century 21 real Estate|
-|  May 14  | https://www.openstreetmap.org/changeset/85233597 |  Open Street Maps | Removed a Claim Jumper that close, its empty now :(|
+|  May 14  | https://www.openstreetmap.org/changeset/85233597 |  Open Street Maps | Removed a Claim Jumper that closed, its empty now :(|
 
 |     |      |     |      |
 
