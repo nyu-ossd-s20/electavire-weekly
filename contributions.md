@@ -27,6 +27,20 @@ Replace the first row with your own contribution.
 |  April 21   | https://github.com/nyu-ossd-s20/anastasiasoenjoto-weekly/issues/1 |  OSSD Issue | Created issue on missed date |
 |  April 21   | https://github.com/nyu-ossd-s20/pmets-weekly/issues/2             |  OSSD Issue | Created issue on missed date |
 |  April 21   | https://github.com/nyu-ossd-s20/nedjulius-weekly/issues/1         |  OSSD Issue | Created issue on missed date |
+|  May 14  | https://www.openstreetmap.org/changeset/85232885#map=19/33.52603/-117.14939       |  Open Street Maps | Added a Jimmy Johns |
+|  May 14  | https://www.openstreetmap.org/changeset/85232961     |  Open Street Maps | Added a Lazy Boy Furniture Store |
+|  May 14  | https://www.openstreetmap.org/changeset/85233070     |  Open Street Maps | Added a round 1 amusement tag to an existing building |
+|  May 14  | https://www.openstreetmap.org/changeset/85233123   |  Open Street Maps | Upgraded Panera Bread Tags to brand name |
+|  May 14  | https://www.openstreetmap.org/changeset/85233167   |  Open Street Maps | Old closed restaurant is now a kids dentist |
+|  May 14  | https://www.openstreetmap.org/changeset/85233199   |  Open Street Maps | Added Wahoo's Fish Taco's |
+|  May 14  | https://www.openstreetmap.org/changeset/85233257   |  Open Street Maps | Added Rosatti's Pizza|
+|  May 14  | https://www.openstreetmap.org/changeset/85233354   |  Open Street Maps | Added Little Caesar's|
+|  May 14  | https://www.openstreetmap.org/changeset/85233421  |  Open Street Maps | Added an Edible Arrangements|
+|  May 14  | https://www.openstreetmap.org/changeset/85233480  |  Open Street Maps | Added Mountain Mike's Pizza|
+|  May 14  | https://www.openstreetmap.org/changeset/85233518 |  Open Street Maps | Added Daphne's restaurant Tag|
+|  May 14  | https://www.openstreetmap.org/changeset/85233547 |  Open Street Maps | Added Century 21 real Estate|
+|  May 14  | https://www.openstreetmap.org/changeset/85233597 |  Open Street Maps | Removed a Claim Jumper that close, its empty now :(|
+
 |     |      |     |      |
 
 
